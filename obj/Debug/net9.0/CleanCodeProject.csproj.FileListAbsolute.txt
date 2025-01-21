@@ -1,0 +1,14 @@
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\obj\Debug\net9.0\CleanCodeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\obj\Debug\net9.0\CleanCodeProject.AssemblyInfoInputs.cache
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\obj\Debug\net9.0\CleanCodeProject.AssemblyInfo.cs
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\obj\Debug\net9.0\CleanCodeProject.csproj.CoreCompileInputs.cache
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\bin\Debug\net9.0\CleanCodeProject.exe
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\bin\Debug\net9.0\CleanCodeProject.deps.json
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\bin\Debug\net9.0\CleanCodeProject.runtimeconfig.json
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\bin\Debug\net9.0\CleanCodeProject.dll
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\bin\Debug\net9.0\CleanCodeProject.pdb
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\obj\Debug\net9.0\CleanCodeProject.dll
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\obj\Debug\net9.0\refint\CleanCodeProject.dll
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\obj\Debug\net9.0\CleanCodeProject.pdb
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\obj\Debug\net9.0\CleanCodeProject.genruntimeconfig.cache
+C:\Users\jeffrey.tang\Documents\筆記\Sample\CleanCode\CleanCodeProject\obj\Debug\net9.0\ref\CleanCodeProject.dll
