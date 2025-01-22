@@ -20,9 +20,11 @@ namespace CleanCodeProject.C03
             return false;
         }
 
-        public bool AssertExpectedEqualsActual(string expected, string actual)
+        public bool AssertExpectedEqualsActual(decimal expected, decimal actual)
         {
-            return expected == actual;
+            // 當進行除法運算時，參數順序會影響結果
+            // 例如：10/2 = 5，但 2/10 = 0.2
+            return (expected / actual) == 1;
         }
     }
 }
